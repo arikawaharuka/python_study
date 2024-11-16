@@ -1,0 +1,52 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+        {
+            "type":"Feature",
+            "geometry":{
+                "type":"Point",
+                "coordinates":[6.731998,7.792138]
+                },
+            "properties":{
+                "country_code":"ng",
+                "display_name":"Federal University Lokoja",
+                "country":"Nigeria",
+                "county":"Lokoja",
+                "datasource":{
+                    "sourcename":"openstreetmap",
+                    "attribution":"© OpenStreetMap contributors",
+                    "license":"Open Database License",
+                    "url":"https://www.openstreetmap.org/copyright"
+                    },
+                "state":"Kogi",
+                "city":"Lokoja",
+                "state_code":"KO",
+                "lon":6.731998,
+                "lat":7.792138,
+                "result_type":"amenity",
+                "postcode":"260101",
+                "formatted":"Federal University Lokoja, Lokoja 260101, KO, Nigeria",
+                "address_line1":"Federal University Lokoja",
+                "address_line2":"Lokoja 260101, KO, Nigeria",
+                "timezone":{
+                    "display_name":"Africa/Lagos",
+                    "offset_STD":"+01:00",
+                    "offset_STD_seconds":3600,
+                    "offset_DST":"+01:00",
+                    "offset_DST_seconds":3600,
+                    "abbreviation_STD":"WAT",
+                    "abbreviation_DST":"WAT"
+                },
+                "plus_code":"6FV8QPRJ+VQ",
+                "plus_code_short":"RJ+VQ Lokoja, Nigeria",
+                "rank":{
+                    "popularity":0.6259337672162315,
+                    "confidence":0.63,
+                    "match_type":"full_match"
+                },
+                "place_id":"511bf33ae290ed1a4059e6ac4f39262b1f40f00103f901a224980f02000000c002019203194665646572616c20556e6976657273697479204c6f6b6f6a61e203236f70656e7374726565746d61703a76656e75653a6e6f64652f38383531353633363832"
+            }
+        }
+    ],
+    "query":{"text":"South Federal University"}
+}
